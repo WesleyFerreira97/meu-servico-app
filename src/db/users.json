@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "razao_social": "Tech Solutions LTDA",
+            "atividade_prestada": "Desenvolvimento de Software",
+            "cidades_atendidas": [
+                "Itabuna",
+                "Ilhéus",
+                "Salvador"
+            ]
+        },
+        {
+            "id": 2,
+            "razao_social": "Tech Consultoria e Inovação",
+            "atividade_prestada": "Consultoria em TI",
+            "cidades_atendidas": [
+                "Salvador",
+                "Feira de Santana",
+                "Vitória da Conquista"
+            ]
+        },
+        {
+            "id": 3,
+            "razao_social": "Autônomos Web Design",
+            "atividade_prestada": "Desenvolvimento de Sites",
+            "cidades_atendidas": [
+                "Itabuna",
+                "Ilhéus"
+            ]
+        }
+    ]
+}
