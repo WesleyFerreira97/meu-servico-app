@@ -4,8 +4,8 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "read": "tsx src/readFile.ts"
+        "read": "tsx src/readFile.ts",
+        "dev": "tsx src/server.ts"
     },
     "keywords": [],
     "author": "",
