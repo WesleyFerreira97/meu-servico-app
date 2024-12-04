@@ -1,11 +1,13 @@
 {
     "name": "meu-servico-app",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "readFilejs",
     "type": "module",
     "scripts": {
         "read": "tsx src/readFile.ts",
-        "dev": "tsx src/server.ts"
+        "read2": "tsx --watch --no-warnings src/readFile2.ts",
+        "devExpress": "tsx --watch --no-warnings src/serverExpress.ts",
+        "devNative": "tsx --watch --no-warnings src/serverNative.ts"
     },
     "keywords": [],
     "author": "",
